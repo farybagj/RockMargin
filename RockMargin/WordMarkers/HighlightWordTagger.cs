@@ -45,6 +45,8 @@ namespace RockMargin
 			_navigator = navigator;
 			_format = format;
 
+            ReloadOptions();//fixed a bug of 'highlight selected word backgroud color' option not work
+
 			view.VisualElement.AddHandler(FrameworkElement.MouseLeftButtonDownEvent, new RoutedEventHandler(ViewMouseLeftButtonDown), true);
 			view.VisualElement.AddHandler(FrameworkElement.KeyUpEvent, new RoutedEventHandler(ViewKeyUp), true);
 			
