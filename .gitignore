@@ -5,3 +5,5 @@
 /RockOptions/obj/Release
 /RockMargin/bin/Release
 /RockMargin/obj/Release
+/HTTPClient/obj
+/HTTPServer/obj
