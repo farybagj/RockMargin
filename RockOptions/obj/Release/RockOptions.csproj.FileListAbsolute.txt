@@ -1,0 +1,3 @@
+C:\Users\faryb\Source\Repos\RockMargin\RockOptions\obj\Release\RockOptions.csprojResolveAssemblyReference.cache
+C:\Users\faryb\Source\Repos\RockMargin\RockOptions\obj\Release\RockMargin.OptionsPage.resources
+C:\Users\faryb\Source\Repos\RockMargin\RockOptions\obj\Release\RockOptions.csproj.GenerateResource.Cache
